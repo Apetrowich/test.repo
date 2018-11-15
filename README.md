@@ -1,2 +1,2 @@
-# test.repo
-Test repository for coursera
+# datasciencecoursera
+Repository for coursera assignment
